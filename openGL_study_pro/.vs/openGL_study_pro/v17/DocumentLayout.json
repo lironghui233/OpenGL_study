@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\openGL_study\\openGL_study_pro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_08_interactive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\course\\course_08_interactive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_07_Light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\course\\course_07_Light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_06_Bezier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\course\\course_06_Bezier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_05_ModelViewTransform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\course\\course_05_ModelViewTransform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_04_Cohen-Surtherland.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\course\\course_04_Cohen-Surtherland.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_03_Transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\course\\course_03_Transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_02_lineDDA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\course\\course_02_lineDDA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_01_traingle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\course\\course_01_traingle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\11_opengl_info.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\demo\\11_opengl_info.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\10_sin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\demo\\10_sin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\09_mouse_move.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\demo\\09_mouse_move.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\08_camera_move.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\demo\\08_camera_move.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\07_point_light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\demo\\07_point_light.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\06_rotate_ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\demo\\06_rotate_ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\05_snowdown.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\demo\\05_snowdown.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\04_texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\demo\\04_texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\03_gradient_square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\demo\\03_gradient_square.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\03_color_traingle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\demo\\03_color_traingle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\02_traingle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\demo\\02_traingle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\01_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E645AA4-863C-408B-BF6B-C8700D0B23AA}|openGl_study\\openGl_study.vcxproj|solutionrelative:openGl_study\\src\\demo\\01_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "11_opengl_info.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\11_opengl_info.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\demo\\11_opengl_info.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\11_opengl_info.cpp",
+              "RelativeToolTip": "openGl_study\\src\\demo\\11_opengl_info.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:49:49.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "10_sin.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\10_sin.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\demo\\10_sin.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\10_sin.cpp",
+              "RelativeToolTip": "openGl_study\\src\\demo\\10_sin.cpp",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAkwJgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:49:46.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "09_mouse_move.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\09_mouse_move.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\demo\\09_mouse_move.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\09_mouse_move.cpp",
+              "RelativeToolTip": "openGl_study\\src\\demo\\09_mouse_move.cpp",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAkwCQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:49:43.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "course_01_traingle.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_01_traingle.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\course\\course_01_traingle.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_01_traingle.cpp",
+              "RelativeToolTip": "openGl_study\\src\\course\\course_01_traingle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:49:52.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "course_02_lineDDA.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_02_lineDDA.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\course\\course_02_lineDDA.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_02_lineDDA.cpp",
+              "RelativeToolTip": "openGl_study\\src\\course\\course_02_lineDDA.cpp",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwE0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:49:54.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "course_03_Transform.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_03_Transform.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\course\\course_03_Transform.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_03_Transform.cpp",
+              "RelativeToolTip": "openGl_study\\src\\course\\course_03_Transform.cpp",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwFUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:49:57.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "course_04_Cohen-Surtherland.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_04_Cohen-Surtherland.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\course\\course_04_Cohen-Surtherland.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_04_Cohen-Surtherland.cpp",
+              "RelativeToolTip": "openGl_study\\src\\course\\course_04_Cohen-Surtherland.cpp",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAkwLEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:50:00.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "course_05_ModelViewTransform.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_05_ModelViewTransform.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\course\\course_05_ModelViewTransform.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_05_ModelViewTransform.cpp",
+              "RelativeToolTip": "openGl_study\\src\\course\\course_05_ModelViewTransform.cpp",
+              "ViewState": "AQIAACkAAAAAAAAAAAAkwFYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:50:04.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "course_06_Bezier.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_06_Bezier.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\course\\course_06_Bezier.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_06_Bezier.cpp",
+              "RelativeToolTip": "openGl_study\\src\\course\\course_06_Bezier.cpp",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAkwKQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:50:07.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "course_07_Light.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_07_Light.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\course\\course_07_Light.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_07_Light.cpp",
+              "RelativeToolTip": "openGl_study\\src\\course\\course_07_Light.cpp",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:50:12.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "course_08_interactive.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_08_interactive.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\course\\course_08_interactive.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\course\\course_08_interactive.cpp",
+              "RelativeToolTip": "openGl_study\\src\\course\\course_08_interactive.cpp",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:50:15.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "08_camera_move.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\08_camera_move.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\demo\\08_camera_move.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\08_camera_move.cpp",
+              "RelativeToolTip": "openGl_study\\src\\demo\\08_camera_move.cpp",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAkwLoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:49:40.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "07_point_light.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\07_point_light.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\demo\\07_point_light.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\07_point_light.cpp",
+              "RelativeToolTip": "openGl_study\\src\\demo\\07_point_light.cpp",
+              "ViewState": "AQIAANIAAAAAAAAAAAAkwOUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:49:37.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "06_rotate_ball.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\06_rotate_ball.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\demo\\06_rotate_ball.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\06_rotate_ball.cpp",
+              "RelativeToolTip": "openGl_study\\src\\demo\\06_rotate_ball.cpp",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAkwJsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:49:33.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "05_snowdown.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\05_snowdown.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\demo\\05_snowdown.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\05_snowdown.cpp",
+              "RelativeToolTip": "openGl_study\\src\\demo\\05_snowdown.cpp",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAkwKwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:49:30.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "04_texture.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\04_texture.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\demo\\04_texture.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\04_texture.cpp",
+              "RelativeToolTip": "openGl_study\\src\\demo\\04_texture.cpp",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAkwI4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:49:26.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "03_gradient_square.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\03_gradient_square.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\demo\\03_gradient_square.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\03_gradient_square.cpp",
+              "RelativeToolTip": "openGl_study\\src\\demo\\03_gradient_square.cpp",
+              "ViewState": "AQIAADUAAAAAAAAAAAAkwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:49:23.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "03_color_traingle.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\03_color_traingle.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\demo\\03_color_traingle.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\03_color_traingle.cpp",
+              "RelativeToolTip": "openGl_study\\src\\demo\\03_color_traingle.cpp",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:49:20.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "02_traingle.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\02_traingle.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\demo\\02_traingle.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\02_traingle.cpp",
+              "RelativeToolTip": "openGl_study\\src\\demo\\02_traingle.cpp",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAkwGYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:49:17.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "01_test.cpp",
+              "DocumentMoniker": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\01_test.cpp",
+              "RelativeDocumentMoniker": "openGl_study\\src\\demo\\01_test.cpp",
+              "ToolTip": "D:\\project\\openGL_study\\openGL_study_pro\\openGl_study\\src\\demo\\01_test.cpp",
+              "RelativeToolTip": "openGl_study\\src\\demo\\01_test.cpp",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwD4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T17:47:01.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
